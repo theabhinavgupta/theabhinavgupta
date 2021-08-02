@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhinav Gupta, an MBBS undergraduate student at AIIMS, New Delhi (Batch 2023)
 - 👀 I’m interested in Medicine, Computational Neuroscience and Web Development
-- 🌱 I’m currently learning EEGLAB
-- 📫 How to reach me: mailto:abhinav19.ind@gmail.com 
+- 🌱 I’m currently learning Signal Processing & EEGLAB for EEG Data Analysis
+- 📫 How to reach me: mailto:abhinav19.ind@gmail.com, mailto:abhinav@aiims.edu
 
 <!---
 theabhinavgupta/theabhinavgupta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
