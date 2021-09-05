@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Abhinav Gupta, an MBBS undergraduate student at AIIMS, New Delhi (Batch 2023)
-- 👀 I’m interested in Medicine, Computational Neuroscience and Web Development
+- 👋 Hi, I’m Abhinav Gupta, an MBBS undergraduate student at AIIMS, New Delhi (Batch of 2023)
+- 👀 I’m interested in Medicine, Computational Neuroscience and Android Development
 - 🌱 I’m currently learning Signal Processing & EEGLAB for EEG Data Analysis
 - 📫 How to reach me: mailto:abhinav19.ind@gmail.com, mailto:abhinav@aiims.edu
 
